@@ -24,6 +24,7 @@ body:
     attributes:
       label: What operating system are you using?
       description: 'For example: macOS, Windows'
+      description: 'For example: macOS, Windows, updated'
     validations:
       required: true
   - type: input
